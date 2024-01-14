@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ojo Damilola
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on frontend internship
+- 🌱 I’m currently learning React Redux
+- 💞️ I’m currently looking for frontend development internship
 - 📫 Reach out to me via linktr.ee/ojodamilola
 
 <!---
